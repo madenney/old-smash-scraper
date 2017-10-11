@@ -1,0 +1,11 @@
+tournament name, location, estimated number of tournaments, reoccurence rate, day of occurence,host
+Wednesday Night Fights,Socal,x,weekly,wednesday,esports arena
+Balcony,Socal,102,weekly,friday saturday
+Melee Monday,Socal,8,weekly,monday
+Monday Night Melee,Socal,9,weekly,monday
+Last Stock SD,Socal,125,weekly,x
+Melee At Blue Screen,25,x,x
+Super Smash Sundays,62,monthly,sunday
+The Wednesday Local,8,weekly,wednesday,oblivion
+Simi In Bracket,6,x,x
+

@@ -1,0 +1,4 @@
+log.txt
+date, firstTournament, tournamentCount, lastTournament, matchCount
+
+24/09/2017, Smash Gods and Gatekeepers, 391, The Next Episode, 147557

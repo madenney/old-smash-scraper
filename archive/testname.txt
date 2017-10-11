@@ -1,0 +1,26 @@
+Humpe,Gröpet,2-0,Gaston
+
+
+last error:
+s URL = https://smash.gg/tournament/ceo-2017/events/melee-singles-2/brackets/111599/383333
+Traceback (most recent call last):
+  File "main.py", line 14, in <module>
+    y.scrape()
+  File "/home/Matt/Documents/smashscraper/matchScraper.py", line 57, in scrape
+    newMatches = smashgg.scrape(tournament)
+  File "/home/Matt/Documents/smashscraper/scrapers/smashgg.py", line 66, in scrape
+    data = requests.get(url).text
+  File "/usr/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python2.7/site-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python2.7/site-packages/requests/sessions.py", line 641, in send
+    r.content
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 797, in content
+    self._content = bytes().join(self.iter_content(CONTENT_CHUNK_SIZE)) or bytes()
+  File "/usr/lib/python2.7/site-packages/requests/models.py", line 722, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+

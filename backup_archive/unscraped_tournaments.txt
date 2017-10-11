@@ -1,0 +1,577 @@
+03/09/2017,Smash Gods and Gatekeepers,784,"Los Angeles, CA",SoCal,Cal,https://smash.gg/tournament/red-bull-smash-gods-and-gatekeepers-2/events
+27/08/2017,Shine 2017,1156,"Boston, MA",New Eng.,Hungrybox,https://smash.gg/tournament/shine-2017/events
+20/08/2017,New Jersey Arcadian Summer 2017,134,"Somerville, NJ",Tristate,E-tie,https://smash.gg/tournament/new-jersey-arcadian-summer-2017/events/melee-singles/brackets/138598
+20/08/2017,Heir 4,476,"Nottingham, UK",Europe,Leffen,https://smash.gg/tournament/heir-4/events
+13/08/2017,Super Smash Con 2017,1079,"Chantilly, VA",MD/VA,Mango,https://smash.gg/tournament/super-smash-con-2017/events
+06/08/2017,Smash Factor 6,128,"Puebla, Mexico",Lat. Am.,SFAT,https://smash.gg/tournament/smash-factor-6-1/events
+06/08/2017,Low Tier City 5,321,"Irving, TX",Southwest,Wizzrobe,https://smash.gg/tournament/low-tier-city-5/events
+30/07/2017,Get On My Level 2017,566,"Mississauga, ON",Canada,Leffen,https://smash.gg/tournament/get-on-my-level-2017/events
+29/07/2017,New Wave,108,"London, UK",Europe,Laurster,https://smash.gg/tournament/new-wave-2/events
+23/07/2017,DreamHack Atlanta 2017,402,"Atlanta, GA",Atl. South,Plup,https://smash.gg/tournament/dreamhack-atlanta-2017/events
+23/07/2017,Azension II,104,"Vaxjo, Sweden",Europe,Daydee,https://smash.gg/tournament/azension-ii/events/melee-singles/brackets/102944
+22/07/2017,Lost In Space,106,"Columbus, OH",Midwest,Hanky Panky,https://smash.gg/tournament/lost-in-space-1/events/melee-singles/brackets/137473
+22/07/2017,Dash Dancers Dawn,128,"Duren, Germany",Europe,Trifasia,https://smash.gg/tournament/dash-dancers-dawn/events
+16/07/2017,Evo 2017,1428,"Las Vegas, NV",Southwest,Armada,https://smash.gg/tournament/evo-2017/events
+09/07/2017,Storm the Harbour,108,"Halifax, NS",Canada,PC Jeff,https://smash.gg/tournament/storm-the-harbour-2000-pot-bonus/events
+09/07/2017,Genesis: RED,258,"Berkeley, CA",SoCal,SFAT,https://smash.gg/tournament/genesis-red-powered-by-showdowngg/events
+08/07/2017,Function(3),175,"Atlanta, GA",Atl. South,Lucky,https://smash.gg/tournament/function-3-recursion-series/events
+08/07/2017,Super Rubicon 1,143,"St. Charles, IL",Midwest,KJH,https://smash.gg/tournament/super-rubicon-1/events
+08/07/2017,Battle GateWay 17,113,"Tokyo, Japan",Japan,Rudolph,http://challonge.com/BGW17
+01/07/2017,Apollo VII,114,"New York City, NY",Tristate,The Moon,https://smash.gg/tournament/apollo-vii/details
+01/07/2017,Bad Moon Rising 2,369,"Winston-Salem, NC",Atl. South,Hungrybox,https://smash.gg/tournament/bad-moon-rising-2/details
+25/06/2017,Revenge of the 6ix: Episode II,111,"Toronto, ON",Canada,KirbyKaze,https://smash.gg/tournament/revenge-of-the-6ix-episode-ii-ft-hugs-kjh-prince/events/melee-singles/brackets/138919
+25/06/2017,OMEGA,128,"Deer Park, NY",Tristate,Swedish Delight,https://smash.gg/tournament/omega/events/melee-singles/brackets/132593
+24/06/2017,GALAXY LG,101,"Monterrey, Mexico",Mexico,Valdo,https://smash.gg/tournament/galaxy-lg-mty-mexico/events/melee-singles/brackets/138759
+24/06/2017,New England Summer Arcadian,134,"Natick, MA",New Eng.,Mr. Tuesday,https://smash.gg/tournament/new-england-melee-summer-arcadian/events/melee-singles/brackets/138880
+18/06/2017,CEO 2017,292,"Orlando, FL",Florida,Hungrybox,https://smash.gg/tournament/ceo-2017/events
+18/06/2017,DreamHack Summer 2017,100,"Jönköping, Sweden ",Europe,Armada,https://smash.gg/tournament/dreamhack-summer-2017/events
+10/06/2017,Mini Boss,108,"Tempe, AZ",Southwest,ilovebagels,https://smash.gg/tournament/mini-boss/events/melee-singles/brackets/137215
+04/06/2017,Battle of BC 2,396,"Vancouver, BC",Canada,ChuDat,https://smash.gg/tournament/ubc-esports-presents-battle-of-bc-2/events
+04/06/2017,Smash N Splash 3,848,"Wisconsin Dells, WI",Midwest,Hungrybox,https://smash.gg/tournament/smash-n-splash-3/events
+03/06/2017,Origin,103,"Newcastle, UK",Europe,Vanity Angel,https://smash.gg/tournament/origin/events
+28/05/2017,MomoCon,105,"Atlanta, GA",Atl. South,Mew2King,https://smash.gg/tournament/momocon-2017-1/details
+28/05/2017,The Bigger Balc,372,"Pomona, CA",SoCal,Hungrybox,https://smash.gg/tournament/the-bigger-balc/details
+27/05/2017,Mission Complete 5,146,"Tilburg, Netherlands",Europe,Armada,https://smash.gg/tournament/mission-complete-5/details
+27/05/2017,PNW Arcadian,150,"Seattle, WA",Northwest,Gus,https://smash.gg/tournament/the-pnw-arcadian-wa-or-bc/events/melee-singles/brackets/135545
+27/05/2017,Shift,126,"Foxborough, MA",New Eng.,Crush,https://smash.gg/tournament/shift/events/melee-singles/brackets/135337
+21/05/2017,Awakening II,113,"Zorneding, Germany",Europe,Daumling,https://smash.gg/tournament/awakening-ii/events
+21/05/2017,Runback 2017,203,"Mesa, AZ",Southwest,Plup,https://smash.gg/tournament/runback-2017/events
+20/05/2017,Downfall,156,"Ann Arbor, MI",Midwest,DruggedFox,https://smash.gg/tournament/downfall/events
+20/05/2017,The Philadelphia Arcadian 2017,127,"Philadelphia, PA",Tristate,Nagy,https://smash.gg/tournament/the-philadelphia-arcadian-2017/details
+14/05/2017,Royal Flush,331,"Atltantic City, NJ",Tristate,Mango,https://smash.gg/tournament/royal-flush/details
+14/05/2017,Battle Arena Melbourne 9,210,"Melbourne, Australia",Australia,Spud,https://smash.gg/tournament/battle-arena-melbourne-9/details
+06/05/2017,SWEET 28,122,"East Lansing, MI",Midwest,Armada,https://smash.gg/tournament/sweet-28-a-super-smash-bros-melee-event/details
+06/05/2017,Function(2),144,"Atlanta, GA",Atl. South,DruggedFox,https://smash.gg/tournament/function-2-recursion-monthly-series/details
+06/05/2017,Bridgetown Blitz,114,"Tigard, OR",Northwest,Bladewise,https://smash.gg/tournament/bridgetown-blitz/details
+30/04/2017,SoCal Arcadian,214,"Santa Ana, CA",SoCal,xKobayashi,https://smash.gg/tournament/team-oxy-esports-arena-presents-the-arcadian/events
+30/04/2017,DreamHack Austin 2017,438,"Austin, TX",Southwest,Hungrybox,https://smash.gg/tournament/dreamhack-austin-2017/events
+29/04/2017,SoCal Colosseum 10,126,"South Pasadena, CA",SoCal,Lucky,https://smash.gg/tournament/socal-colosseum-10-arcadian-training/events
+29/04/2017,Lift Off,104,"New York City, NY",Tristate,vortex,https://smash.gg/tournament/lift-off/events/melee-singles/brackets/132042
+23/04/2017,The Come Up 2017,177,"Toronto, ON",Canada,Ryan Ford,https://smash.gg/tournament/the-come-up-2017-ontario-smash-regional/events/melee-singles/brackets/131047
+22/04/2017,Michigan Arcadian 6,170,"Ann Arbor, MI",Midwest,i4n,https://smash.gg/tournament/michigan-arcadian-6/events/melee-singles/brackets/131038
+22/04/2017,Ghost Pepper Smash,129,"Troy, NY",Tristate,Professor Pro,https://smash.gg/tournament/ghost-pepper-smash/events/melee-singles/brackets/129937
+22/04/2017,Flatiron 2,230,"Boulder, CO",Midwest,Swedish Delight,https://smash.gg/tournament/flatiron-2-powered-by-weedmaps/events
+16/04/2017,CEO Dreamland,333,"Orlando, FL",Florida,Mew2King,https://smash.gg/tournament/ceo-dreamland/events
+16/04/2017,HFLAN Melee Edition 2017,233,"Noisy-le-Grand, France",Europe,Armada,https://smash.gg/tournament/hflan-melee-edition-2017/events
+16/04/2017,Zotcade '17,124,"Irvine, CA",SoCal,Westballz,https://smash.gg/tournament/zotcade-17/events
+16/04/2017,CEO Dreamland,333,"Orlando, FL",Florida,Mew2King,https://smash.gg/tournament/ceo-dreamland/events
+15/04/2017,Fight Pitt 7,215,"Pittsburgh, PA",Tristate,KJH,https://smash.gg/tournament/fight-pitt-7/events
+08/04/2017,Reign 3,100,"Seattle, WA",Northwest,Bladewise,https://smash.gg/tournament/reign-3/events
+08/04/2017,Apollo IV,103,"New York City, NY",Tristate,dizzkidboogie,https://smash.gg/tournament/apollo-iv-7/events
+08/04/2017,Beantown Lean House,137,"Brookline, MA",New Eng.,HugS,https://smash.gg/tournament/btlh-i-1/events
+02/04/2017,CT Gamercon`,185,"Uncasville, CT",New Eng.,Hungrybox,https://smash.gg/tournament/ct-gamercon-game-underground-tournaments/events
+02/04/2017,Watch The Throne 3,117,"Chicago, IL",Midwest,simkins,https://smash.gg/tournament/watch-the-throne-3-chicago-melee-arcadian/events/melee-singles-1/brackets/128491
+02/04/2017,Shuffle: Battle of the Midwest,219,"Columbus, OH",Midwest,The Moon,https://smash.gg/tournament/shuffle-battle-of-the-midwest/events
+01/04/2017,Function(1),156,"Atlanta, GA",Atl. South,Wizzrobe,https://smash.gg/tournament/function-1-recursion-regional/events
+26/03/2017,Full Bloom 3,316,"Bloomington, IN",Midwest,Hungrybox,https://smash.gg/tournament/full-bloom-3/events
+26/03/2017,Frozen Phoenix 2017,165,"Hamilton, ON",Canada,Lucky,https://smash.gg/tournament/frozen-phoenix-2017/events
+25/03/2017,PGH/NEOH Arcadian 2017,114,"Youngstown, OH",Midwest,Spy,https://smash.gg/tournament/pgh-neoh-invitational-arcadian-2017/events
+25/03/2017,Norcal Validated 3,100,"Concord, CA",NorCal,Azusa,https://smash.gg/tournament/norcal-validated-3/events
+19/03/2017,Frame Perfect Series 2,134,"Orlando, FL",Florida,Hungrybox,https://smash.gg/tournament/mvg-presents-frame-perfect-series-2-1/events
+18/03/2017,SoCal Colosseum 9,113,"South Pasadena, CA",SoCal,MacD,https://smash.gg/tournament/socal-colosseum-9-team-root-beer/events
+18/03/2017,MMOM Bi-Monthly 6,106,"Amesbury, MA",New Eng.,Crush,http://mmom.challonge.com/bimonthly6
+18/03/2017,Mountain of Dreams 2,129,"Morgantown, WV",Midwest,Drephen,https://smash.gg/tournament/mountain-of-dreams-2-5/events
+18/03/2017,Norcal Arcadian #4,359,"Santa Clara, CA",NorCal,Weedlar,https://smash.gg/tournament/norcal-arcadian-4/events
+12/03/2017,Super Smash Sundays 57,147,"Santa Ana, CA",SoCal,S2J,https://smash.gg/tournament/super-smash-sundays-57-2/events
+11/03/2017,The Golden Bair 6,145,"Berkeley, CA",NorCal,dizzkidboogie,http://sab.challonge.com/gb6champ
+11/03/2017,SWEET 27,172,"Ann Arbor, MI",Midwest,Westballz,https://smash.gg/tournament/sweet-27-a-super-smash-bros-melee-event/events
+11/03/2017,Apollo III,149,"New York City, NY",Tristate,Swedish Delight,https://smash.gg/tournament/apollo-iii/events
+04/03/2017,No Fun Allowed,192,"Bryan, TX",Southwest,MikeHaze,https://smash.gg/tournament/no-fun-allowed/events/melee-singles/brackets/79124
+04/03/2017,Beachcon 2017,102,"Long Beach, CA",SoCal,Captain Faceroll,https://smash.gg/tournament/beachcon-2017/events
+26/02/2017,Mass Madness 15,129,"Natick, MA",New Eng.,Crush,http://bigbluees.challonge.com/MM15Pro
+26/02/2017,Super Smash Sundays 56,153,"Santa Ana, CA",SoCal,SFAT,https://smash.gg/tournament/super-smash-sundays-56/events
+25/02/2017,An Epic Anniversary,128,"Portland, OR",Northwest,Bladewise,https://smash.gg/tournament/an-epic-anniversary/events
+25/02/2017,UBC Cup 2017,144,"Vancouver, BC",Canada,Vinodh,https://smash.gg/tournament/ubc-cup-2017/events
+19/02/2017,San Diego Arcadian #3,220,"San Diego, CA",SoCal,Blue(Buddy),https://smash.gg/tournament/san-diego-melee-arcadian-3-at-winter-gamefest/events
+19/02/2017,B.E.A.S.T 7,409,"Gothenburg, Sweden",Europe,Armada,https://smash.gg/tournament/beast-7-1/events
+18/02/2017,Smash Valley V,253,"State College, PA",Tristate,Lucky,https://smash.gg/tournament/smash-valley-v-featuring-lucky-abate-swedish-delight-wadi-more/events
+18/02/2017,SoCal Colosseum 8,114,"South Pasadena, CA",SoCal,S2J,https://smash.gg/tournament/socal-colosseum-8-v-cancel-day/events
+18/02/2017,Reign 2,110,"Seattle, WA",Northwest,Bladewise,https://smash.gg/tournament/reign-2/events
+18/02/2017,Gator Gaming Winter Party 2017,127,"Gainesville, FL",Florida,King Momo,https://smash.gg/tournament/gator-gaming-winter-party-2017/events
+12/02/2017,LanETS 2017,116,"Montreal, QC",Canada,Leffen,https://smash.gg/tournament/lanets-2017-feat-rb-tsm-leffen/events/melee-singles/brackets/117335
+11/02/2017,SmashBox 2,128,"Coventry, UK",Europe,DruggedFox,https://smash.gg/tournament/smashbox-2/events
+11/02/2017,Norcal Validated 2,142,"Concord, CA",NorCal,SFAT,https://smash.gg/tournament/norcal-validated-2/events
+11/02/2017,SWEET XXVI,101,"East Lansing, MI",Midwest,KJH,https://smash.gg/tournament/sweet-xxvi-a-super-smash-bros-melee-tournament/events
+11/02/2017,Super SmashNest v13,104,"Portland, OR",Northwest,Iceman,https://smash.gg/tournament/super-smashnest-v13/events
+04/02/2017,Torneo Galactico,105,"Guadalupe, Mexico",Mexico,Javi,https://smash.gg/tournament/torneo-galactico/events http://challonge.com/v5keez3u
+04/02/2017,The Kentspiracy,122,"Kent, OH",Midwest,TheRealThing,https://smash.gg/tournament/ksu-smash-presents-the-kentspiracy/events
+04/02/2017,The SC Arcadian,111,"Columbia, SC",Atl. South,Keenan,https://smash.gg/tournament/the-sc-arcadian/events
+29/01/2017,Moses Kang Memorial Tournament 2,126,"Chapel Hill, NC",Atl. South,$mike,https://smash.gg/tournament/moses-kang-memorial-tournament-ii/events
+29/01/2017,Super Smash Sundays 55,210,"Santa Ana, CA",SoCal,DruggedFox,https://smash.gg/tournament/super-smash-sundays-55-1/events
+28/01/2017,SoCal Colosseum 7,185,"South Pasadena, CA",SoCal,n0ne,https://smash.gg/tournament/socal-colosseum-7-exodus-ft-syrox-n0ne-bizz-flame-and/events
+22/01/2017,Genesis 4,1704,"San Jose, CA",NorCal,Armada,https://smash.gg/tournament/genesis-4/events
+17/01/2017,Get Smashed At The Foundry 105,136,"San Francisco, CA",NorCal,Plup,https://smash.gg/tournament/get-smashed-105-special-pre-genesis-4-foundry-event/events/melee-singles/brackets/101160
+15/01/2017,Arcamelee 2,109,"Villeurbanne, France",Europe,The Moon,https://smash.gg/tournament/arcamelee-2/details
+15/01/2017,We Tech Those 9,125,"Atlanta, GA",Atl. South,Baka4Moe,https://smash.gg/tournament/we-tech-those-9-georgia-tech/events
+14/01/2017,SWEET 25,232,"Ann Arbor, MI",Midwest,Ice,https://smash.gg/tournament/sweet-25/details
+14/01/2017,Norcal Validated,176,"Concord, CA",NorCal,Plup,https://smash.gg/tournament/norcal-validated-featuring-professor-pro-genesis-4-warm-up/details
+14/01/2017,UWaterloo Melee Monthly 1,101,"Waterloo, ON",Canada,KirbyKaze,https://smash.gg/tournament/uwaterloo-melee-monthly-1/events
+14/01/2017,Room 50,128,"Columbus, OH",Midwest,Fizzle,https://smash.gg/tournament/room-50/events/melee-singles/brackets/100320
+14/01/2017,Mass Madness 14,115,"Natick, MA",New Eng.,Crush,https://smash.gg/tournament/mass-madness-14/events/melee-singles/brackets/101706
+08/01/2017,Apollo,144,"New York City, NY",Tristate,KJH,https://smash.gg/tournament/apollo/details
+07/01/2017,Best of the Rest: UK Arcadian,112,"Southampton, UK",Europe,Setchi,https://smash.gg/tournament/best-of-the-rest/events
+18/12/2016,Wreck The Halls 2,100,"Libertyville, IL",Midwest,Kels,https://smash.gg/tournament/wreck-the-halls-2/events
+18/12/2016,DGWinter Clash,144,"Dortmund, Germany",Europe,reaper,https://smash.gg/tournament/dgwinter-clash/events
+18/12/2016,Don't Park on the Grass,640,"Seattle, WA",Northwest,Leffen,https://smash.gg/tournament/don-t-park-on-the-grass/events
+17/12/2016,Cincinnati Smash Classic VI,137,"Cincinnati, OH",Midwest,Captain Faceroll,https://smash.gg/tournament/cincinnati-smash-classic-vi/events/melee-singles/brackets
+17/12/2016,SoCal Colosseum 6,158,"South Pasadena, CA",SoCal,CDK,https://smash.gg/tournament/socal-colosseum-6-park-on-the-grass/details
+11/12/2016,New England Arcadian,156,"Boston, MA ",New Eng.,Kalvar,https://smash.gg/tournament/new-england-melee-arcadian/details
+11/12/2016,Eden,184,"Chicago, IL",Midwest,DruggedFox,https://smash.gg/tournament/eden/events
+04/12/2016,UGC Smash Open,255,"Collinsville, IL",Midwest,Armada,https://smash.gg/tournament/ugc-smash-open/events
+26/11/2016,DreamHack Winter 2016,242,"Jonkoping, Sweden",Europe,Armada,https://smash.gg/tournament/dreamhack-winter-2016/events/melee-singles/brackets/88769
+20/11/2016,Super Famicon 2016,192,"Greensboro, NC",Atl. South,n0ne,https://smash.gg/tournament/super-famicon-2016/events/melee-singles/brackets
+20/11/2016,Kings of the North V,227,"Brookfield, WI",Midwest,Professor Pro,https://smash.gg/tournament/kings-of-the-north-v/events
+20/11/2016,Rewired 2016,228,"Tucson, AZ",Southwest,Westballz,https://smash.gg/tournament/rewired-2016-1/events
+19/11/2016,Kickstart 13,141,"London, UK",Europe,Hungrybox,https://smash.gg/tournament/kickstart-13/events
+19/11/2016,Michigan Arcadian 5,156,"Ann Arbor, MI",Midwest,Heartstrings,https://smash.gg/tournament/michigan-arcadian-5/events/melee-singles/brackets/87814
+19/11/2016,Battlegrounds 3,175,"Houston, TX",Southwest,HugS,https://smash.gg/tournament/smash-united-presents-battlegrounds-3/events/melee-singles/brackets/87599
+13/11/2016,GUTS 4,105,"Mashantucket, CT",New Eng.,Crush,https://smash.gg/tournament/guts-4-game-underground-tournament-spectacular-4/events/melee-singles/brackets/52822/173700
+13/11/2016,Smash The Record 2016,390,"Kissimmee, FL",Florida,Colbol,https://smash.gg/tournament/smashtherecord-2016-super-smash-bros-speedrunning-charity-marathon-1/events
+12/11/2016,UCI Quarterly 1,127,"Irvine, CA",SoCal,Santiago,https://smash.gg/tournament/uci-quarterly-1/events
+12/11/2016,Colosseum a BC Arcadian,129,"Vancouver, BC",Canada,The Intern,https://smash.gg/tournament/ubc-esports-presents-colosseum-a-bc-arcadian/events
+12/11/2016,Shine Arial,107,"Kent, OH",Midwest,Drephen,https://smash.gg/tournament/ksu-smash-presents-shine-arial/events
+06/11/2016,The Golden Bair 5,152,"Berkeley, CA",NorCal,Azusa,https://smash.gg/tournament/the-golden-bair-5/events
+06/11/2016,Smash Summit 3,16,"Las Angeles, CA",SoCal,Armada,https://smash.gg/tournament/smash-summit-3/events
+05/11/2016,GatorLAN Fall 2016,162,"Gainesville, FL",Florida,Tempo,https://smash.gg/tournament/gatorlan/events/melee-singles/brackets/66834
+05/11/2016,Avalon M-VI,112,"Zoetermeer, Netherlands",Europe,Amsah,http://challonge.com/AvalonMVIsingles
+05/11/2016,"Nebulous Prime 63 Monthly Ed.",108,"New York City, NY",Tristate,Swedish Delight,https://smash.gg/tournament/nebulous-prime-melee-64/events/melee-singles/brackets
+30/10/2016,Canada Cup 2016,232,"Toronto, ON",Canada,Armada,https://smash.gg/tournament/canada-cup-2016/events/melee-singles/brackets/82408
+29/10/2016,FastFall or Nothing,101,"Milwaukie, OR",Northwest,Silent Wolf,https://smash.gg/tournament/fastfall-or-nothing/events/melee-singles/brackets/54623
+29/10/2016,SoCal Colosseum 5,115,"South Pasadena, CA",SoCal,S2J,https://smash.gg/tournament/socal-colosseum-5-halloween-2016/events/melee-singles/brackets/80160
+23/10/2016,Eclipse 2,247,"Jessheim, Norway",Europe,Armada,https://smash.gg/tournament/eclipse-2/events/melee-singles/brackets/78031
+23/10/2016,UCSD Super Triweekly 4,103,"San Diego, CA",SoCal,Lucky,http://sdmelee.challonge.com/STW4singlesT32
+15/10/2016,Xanadu Fall Arcadian 2016,120,"Halethorpe, MD",MD/VA,Fendrick Lamar,https://smash.gg/tournament/the-fall-arcadian/details
+15/10/2016,SSS: Blood For Blood,443,"San Francisco, CA",NorCal,PewPewU,https://smash.gg/tournament/sss-blood-for-blood/details
+14/10/2016,ASU Weekly 16/17 #9,103,"Tempe, AZ",Southwest,Vitro?,http://challonge.com/asuweekly201609
+09/10/2016,The Big House 6,1563,"Dearborn, MI",Midwest,Mango,https://smash.gg/tournament/the-big-house-6/events/melee-singles/brackets/76016
+08/10/2016,SmashBox,100,"Coventry, UK",Europe,Overtriforce,https://smash.gg/tournament/smashbox/events/melee-singles/brackets/71089/226811
+04/10/2016,Get Smashed at the Foundry 100,120,"San Francisco, CA",NorCal,SFAT,https://smash.gg/tournament/get-smashed-100/brackets
+02/10/2016,Watch The Throne 2,105,"Chicago, IL",Midwest,Quindelin,https://smash.gg/tournament/chicago-arcadian-watch-the-throne-2/brackets
+02/10/2016,Super South Bay Sunday 18,108,"Santa Clara, CA",NorCal,SFAT,https://smash.gg/tournament/super-south-bay-sunday-18-who-are-you-people-edition/brackets/17559/76028/241779
+25/09/2016,Finding Our Dad,116,"Vancouver, BC",Canada,Silent Wolf,https://smash.gg/tournament/ubc-esports-presents-fod/brackets/16299/73766/234434
+24/09/2016,SoCal Colosseum 4,130,"South Pasadena, CA",SoCal,Westballz,https://smash.gg/tournament/socal-colosseum-4-the-melee-games/brackets/15912/59868/194639
+24/09/2016,Smash @ York 11,124,"Toronto, ON",Canada,KirbyKaze,https://smash.gg/tournament/smash-york-11-the-return/brackets/16058/73380/233309
+17/09/2016,Dairly Beloved,145,"Renton, WA",Northwest,SFAT,https://smash.gg/tournament/dairly-beloved/brackets
+17/09/2016,Lazer Lazer 18,113,"Knoxville, TN",Atl. South,Twitch,http://challonge.com/LL18M
+16/09/2016,ASU Weekly 16/17 #5,112,"Tempe, AZ",Southwest,ilovebagels,http://challonge.com/asuweekly201605
+11/09/2016,Syndicate 2016,209,"Utrecht, Netherlands",Europe,Armada,https://smash.gg/tournament/syndicate-2016/brackets
+11/09/2016,Super Smash Sundays 52,152,"Santa Ana, CA",SoCal,MikeHaze,https://smash.gg/tournament/super-smash-sundays-52/brackets
+10/09/2016,Smash Valley IV,107,"Pleasant Gap, PA",Tristate,Swedish Delight,https://smash.gg/tournament/s-ps-presents-smash-valley-iv-featuring-colbol-swedish-delight-1/brackets
+10/09/2016,The Georgia Arcadian,181,"Atlanta, GA",Atl. South,Dublat,https://smash.gg/tournament/the-georgia-arcadian-1/brackets/14893/68181/218307
+10/09/2016,All My Edge Guards Are Reads,105,"East Lansing, MI",Midwest,KJH,https://smash.gg/tournament/all-my-edge-guards-are-reads-east-mi-tmg-qualifier/brackets
+10/09/2016,Trail Gaming League Monthly 9,104,"Miami, FL",Florida,Plup,http://challonge.com/TGL9MeleePro
+09/09/2016,ASU Weekly 16/17 #4,150,"Tempe, AZ",Southwest,PatCombo,http://challonge.com/asuweekly201604
+03/09/2016,200 Beats Per Minute,107,"Pittsburgh, PA",Tristate,dizzkidboogie,https://smash.gg/tournament/pitt-smash-presents-200-beats-per-minute/brackets
+03/09/2016,High School Smash - Sep. 3rd,100,"South Pasadena, CA",SoCal,mixx,https://smash.gg/tournament/high-school-smash-september-3rd/brackets/15283/59583/193900
+03/09/2016,Show Me Your Moves 17,195,"Urbana, IL",Midwest,Duck,https://smash.gg/tournament/show-me-your-moves-17/brackets/13087/36209/121554
+28/08/2016,Alberta Beat Down 2016,124,"Edmonton, AB",Canada,Quaff,http://albertabeatdown.challonge.com/ABD2016_Meleetop32
+28/08/2016,Shine 2016,989,"Boston, MA",New Eng.,Mew2King,https://smash.gg/tournament/shine-2016-1/brackets
+27/08/2016,OzHadou Nationals 14,127,"Sydney, Australia",Australia,Spud,https://smash.gg/tournament/ozhadou-nationals-14/brackets
+27/08/2016,NaCl August 2016,110,"Atlanta, GA",Atl. South,DruggedFox,https://smash.gg/tournament/the-lab-gaming-presents-nacl-august-2016-north-atlanta-championship/brackets/15723/64796/208518
+26/08/2016,ASU Weekly 16/17 #2,152,"Tempe, AZ",Southwest,Medz,http://challonge.com/asuweekly201602
+24/08/2016,New Game Plus 67,122,"Boston, MA",New Eng.,Crush,http://bigbluees.challonge.com/NGP67
+21/08/2016,Heir 3,472,"Nottingham, UK",Europe,Armada,https://smash.gg/tournament/heir-3-1/brackets
+20/08/2016,SoCal Colosseum 3,162,"South Pasadena, CA",SoCal,Westballz,https://smash.gg/tournament/socal-colosseum-3-colothreeum-2/brackets
+19/08/2016,ASU Weekly 16/17 #1,138,"Tempe, AZ",Southwest,Streaker,http://challonge.com/asuweekly201601
+14/08/2016,Super Smash Con 2016,940,"Chantilly, VA",MD/VA,Mango,https://smash.gg/tournament/super-smash-con-2016/details
+14/08/2016,DreamHack Montreal 2016,172,"Montreal, QC",Canada,Ryan Ford,http://dhcanada.challonge.com/dhctop32
+12/08/2016,ASU Weekly 16/17 #0,108,"Tempe, AZ",Southwest,Boyka,http://challonge.com/asuweekly20160
+10/08/2016,Smash @ Xanadu 162,109,"Halethorpe, MD",MD/VA,Ice,http://vgbootcamp.challonge.com/SAX08102016SSBM
+07/08/2016,Clutch City Clash,270,"The Woodlands, TX",Southwest,Mew2King,https://smash.gg/tournament/clutch-city-clash-powered-by-xyience/brackets
+07/08/2016,Summit 2016,177,"Kitchener, ON",Canada,Professor Pro,https://smash.gg/tournament/summit-2016/brackets
+07/08/2016,NJ's 2nd Quarterly Rapport,142,"Somerset, NJ",Tristate,Swedish Delight,http://quarterlyrapport.challonge.com/
+07/08/2016,Super Smash Sundays 50,152,"Santa Ana, CA",SoCal,MacD,https://smash.gg/tournament/super-smash-sundays-50
+06/08/2016,805 Alive 3,100,"Newbury Park, CA",SoCal,MacD,https://smash.gg/tournament/805-alive-3-3/brackets
+06/08/2016,City of Melee: Arcadian,101,"Melbourne, Australia",Australia,Fess,https://smash.gg/tournament/city-of-melee-arcadian/brackets/14465/52214/171726
+31/07/2016,Revelation 2016,135,"Denver, CO",Southwest,S2J,https://smash.gg/tournament/revelation-2016/brackets
+31/07/2016,Smash Factor 5,134,"Cholula, Mexico",Lat. Am.,n0ne,https://smash.gg/tournament/smash-factor-5/brackets
+31/07/2016,Kings of Vancouver III,127,"Vancouver, BC",Canada,Bladewise,https://smash.gg/tournament/kings-of-vancouver-iii/brackets/13797/57650/188170
+31/07/2016,Super Smash Sundays 49,127,"Pomona, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-49/brackets
+23/07/2016,Emerald City 4,168,"Seattle, WA",Northwest,Silent Wolf,https://smash.gg/tournament/emerald-city-4/brackets
+23/07/2016,SoCal Colosseum 2,223,"South Pasadena, CA",SoCal,n0ne,https://smash.gg/tournament/socal-colosseum-2-post-evo-kickback-ft-s2j-n0ne-chillindude/brackets
+23/07/2016,Rubicon 12,143,"Chicago, IL",Midwest,SFAT,https://smash.gg/tournament/rubicon-12/brackets
+17/07/2016,Evo 2016,2350,"Las Vegas, NV",Southwest,Hungrybox,http://wiki.teamliquid.net/smash/EVO_2016/Melee/Singles_Bracket
+10/07/2016,Azension,114,"Vaxjo, Sweden",Europe,Android,https://smash.gg/tournament/azension/brackets
+10/07/2016,Super Smash Sundays 48,133,"Pomona, CA",SoCal,Ice,https://smash.gg/tournament/super-smash-sundays-48/brackets
+03/07/2016,WTFox 2,291,"Memphis, TN",Atl. South,Mango,https://smash.gg/tournament/wtfox-2/brackets
+03/07/2016,Super Smash Sundays 47,146,"Pomona, CA",SoCal,Lucky,https://smash.gg/tournament/super-smash-sundays-47/brackets
+02/07/2016,Avalon M-V,103,"Zoetermeer, Netherlands",Europe,Amsah,http://www.avalontournamentseries.nl/static/brackets/avalonm5/singles.png
+26/06/2016,CEO 2016,678,"Orlando, FL",Florida,Hungrybox,https://smash.gg/tournament/ceo-2016/brackets/11787/45263/150460
+25/06/2016,Cincinnati Smash Classic V,117,"Cincinnati, OH",Midwest,Split*,https://smash.gg/tournament/cincinnati-smash-classic-v/brackets/13286/47040/156356
+25/06/2016,Push More Buttons,127,"Minneapolis, MN",Midwest,Kels,https://smash.gg/tournament/push-more-buttons/brackets/13077/44500/147996
+19/06/2016,Low Tier City 4,294,"Plano, TX",Southwest,Hungrybox,https://smash.gg/tournament/low-tier-city-4/brackets
+19/06/2016,Apex 2016,159,"Somerset, NJ",Tristate,Mew2King,https://smash.gg/tournament/apex-2016/brackets
+19/06/2016,DreamHack Summer,117,"Jonkoping, Sweden",Europe,Leffen,http://bts.challonge.com/dhs16s
+18/06/2016,Emerald City III,241,"Seattle, WA",Northwest,SFAT,https://smash.gg/tournament/emerald-city-iii/brackets/12931/44233/147138
+18/06/2016,Rubicon 11,112,"Chicago, IL",Midwest,KJH,https://smash.gg/tournament/rubicon-11-ft-hugs/brackets/13355/45219/150130
+12/06/2016,Rain City Smash,134,"Vancouver, BC",Canada,MojoMonkey,https://smash.gg/tournament/rain-city-smash/brackets/11937/19708/65813
+12/06/2016,Smash N Splash 2,459,"Gurnee, IL",Midwest,Hungrybox,https://smash.gg/tournament/smash-n-splash-2-1/brackets
+11/06/2016,Mayhem 28,188,"South Pasadena, CA",SoCal,Lucky,https://smash.gg/tournament/mayhem-28/brackets/13500/42998/143355
+10/06/2016,ASH @ WIT 63,107,"Aurora, IL",Midwest,SFAT,http://challonge.com/ashwit63melee
+05/06/2016,Super Smash Sundays 45,179,"Pomona, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-45/brackets/13240/39494/132151
+04/06/2016,Rise of the Empire,123,"East Lansing, MI",Midwest,Colbol,https://smash.gg/tournament/rise-of-the-empire-melee-and-pm-ft-colbol-swedishdelight-1/details
+29/05/2016,Combo Breaker,120,"St. Charles, IL",Midwest,Duck,http://combobreaker.challonge.com/2016_melee_1v1
+29/05/2016,Smash For Smiles,140,"Seattle, WA",Northwest,Bladewise,https://smash.gg/tournament/smash-for-smiles/brackets
+22/05/2016,Super SmashNest v7,114,"Portland, OR",Southwest,Bladewise,http://cacaw.challonge.com/SSN7MeleeTop24
+22/05/2016,Get On My Level 2016,509,"Toronto, ON",Canada,Leffen,https://smash.gg/tournament/get-on-my-level-2016-good-game-con-ft-hbox-2/brackets
+21/05/2016,UMN May Monthly,107,"Minneapolis, MN",Midwest,AbsentPage,http://umnsmash.challonge.com/UMNMayMeleeTop32
+21/05/2016,Rubicon 10,115,"Chicago, IL",Midwest,S2J,https://smash.gg/tournament/rubicon-10-ft-s2j-vs-laudandas/brackets/13119/35112/118067
+15/05/2016,Battle Arena Melbourne 8,176,"Melbourne, Australia",Australia,Nick,https://smash.gg/tournament/battle-arena-melbourne-8-3/brackets/13029/34407/115814
+15/05/2016,Super Smash Sundays 44,156,"Pomona, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-44/brackets/12728/33244/111571
+15/05/2016,Runback 2016,143,"Tempe, AZ",Southwest,Axe,https://smash.gg/tournament/runback-2016/brackets/12717/35222/118367
+14/05/2016,Battle of BC,256,"Vanvouver, BC",Canada,Leffen,https://smash.gg/tournament/ubc-esports-presents-battle-of-bc/brackets
+14/05/2016,Mayhem 27,128,"South Pasadena, CA",SoCal,MacD,https://smash.gg/tournament/mayhem-27/brackets/13003/35395/118983
+14/05/2016,The Spring Arcadian (Xanadu),123,"Halethorpe, MD",MD/VA,MOM!,https://smash.gg/tournament/the-spring-arcadian/brackets/12455/34367/115678
+14/05/2016,Michigan Arcadian 4,136,"Ann Arbor, MI",Midwest,Morsecode762,https://smash.gg/tournament/michigan-arcadian-4/brackets/12918/35043/117900
+08/05/2016,DreamHack Austin,404,"Austin, TX",Southwest,Mango,https://smash.gg/tournament/dreamhack-austin-2016/brackets
+07/05/2016,Avalon M-IV,116,"Zoetermeer, Netherlands",Europe,Jeapie,http://smashboards.com/threads/avalon-m-iv-may-7th-2016-the-netherlands-europe.436341/
+07/05/2016,New Fish,106,"Troy, NY",Tristate,Colbol,https://smash.gg/tournament/new-fish/brackets
+01/05/2016,EGLX 2016,256,"Mississauga, ON",Canada,Hungrybox,http://challonge.com/eglxmelee
+30/04/2016,Winnipeg Smash Monthly 17,100,"Winnipeg, MB",Canada,Kage,http://manitoba.challonge.com/366372hn
+30/04/2016,Flashback Games 24,105,"Atlanta, GA",Atl. South,DruggedFox,http://challonge.com/FBGT24
+23/04/2016,South Coast Regionals 10,109,"Southampton, UK",Europe,Professor Pro,http://challonge.com/scr10pro
+23/04/2016,EagleLAN,153,"Fort Myers, FL",Florida,Porkchops,https://smash.gg/tournament/eaglelan-1000-prize-pool-for-each-melee-smash-wiiu-sfv/brackets/11793/26542/87212
+23/04/2016,Mayhem 26,134,"South Pasadena, CA",SoCal,Lucky,https://smash.gg/tournament/mayhem-26/brackets/12594/28972/96618
+17/04/2016,Fight Pitt 6,264,"Pittsburgh, PA",Tristate,Colbol,https://smash.gg/tournament/fight-pitt-6/brackets
+16/04/2016,Full Bloom 2,236,"Bloomington, IN",Midwest,Lucky,https://smash.gg/tournament/full-bloom-2-2/brackets
+16/04/2016,Mass Madness 8,126,"Natick, MA",New Eng.,Crush,http://bigbluees.challonge.com/MM8Pro
+16/04/2016,GatorLAN Spring 2016,170,"Gainesville, FL",Florida,Plup,http://gatorgaming.challonge.com/GLANMeleeTop16
+10/04/2016,Frame One,108,"Orlando, FL",Florida,Plup,https://smash.gg/tournament/frame-one/brackets/11179/25345/83320
+10/04/2016,Super SmashNest v6,101,"Portland, OR",Northwest,Westballz,http://cacaw.challonge.com/SSN6MST24
+09/04/2016,Emerald City II,242,"Seattle, WA",Northwest,Westballz,https://smash.gg/tournament/emerald-city-ii/brackets
+09/04/2016,SWEET XXIV,111,"East Lansing, MI",Midwest,n0ne,https://smash.gg/tournament/sweet-xxiv/brackets/11005/25346/83326
+03/04/2016,The Golden Bair 4,180,"Berkeley, CA",NorCal,Boulevard,https://smash.gg/tournament/the-golden-bair-4/brackets/12032/19702/65773
+03/04/2016,Pound 2016,933,"McLean, VA",MD/VA,Hungrybox,https://smash.gg/tournament/pound-2016/brackets
+02/04/2016,AZ Melee Arcadian 2,127,"Phoenix, AZ",Southwest,PatCombo,http://challonge.com/arcadian2meleesingles
+26/03/2016,OUTFOXX'D,144,"Indianapolis, IN",Midwest,Mew2King,https://smash.gg/tournament/outfoxx-d-1/brackets/11431/21267/70816
+26/03/2016,Rubicon 8,100,"Chicago, IL",Midwest,Dart!,http://challonge.com/rc8top32
+26/03/2016,Super Nebulous 4,168,"New York City, NY",Tristate,Hungrybox,https://smash.gg/tournament/super-nebulous-4/brackets/11335/14961/50953
+26/03/2016,Mayhem 25,165,"South Pasadena, CA",SoCal,SFAT,https://smash.gg/tournament/mayhem-25/brackets/12077/20893/69565
+26/03/2016,Battlegrounds 2,114,"Houston, TX",Southwest,Kage,https://smash.gg/tournament/smash-united-presents-battlegrounds-2/brackets/11402/8380/30352
+13/03/2016,Shuffle VIII,160,"Columbus, OH",Midwest,Mew2King,http://smashboards.com/rankings/shuffle-viii-melee-top-64.12471/event?id=2
+13/03/2016,Frozen Phoenix,116,"Hamilton, ON",Canada,Ryan Ford,http://challonge.com/fpms
+13/03/2016,Super SmashNest v5,141,"Portland, OR",Northwest,Westballz,http://cacaw.challonge.com/SSN5MSTop
+12/03/2016,SWEET XXIII,256,"Ann Arbor, MI",Midwest,Armada,https://smash.gg/tournament/sweet-xxiii-ssbm-tournament-feat-armada/brackets/11570/17710/59520
+06/03/2016,The Scarlet Classic II,111,"New Brunswick, NJ",Tristate,Swedish Delight,http://challonge.com/ScarletClassic2Top32
+06/03/2016,Shots Fired 2,125,"Somerset, NJ",Tristate,Mew2King,https://smash.gg/tournament/shots-fired-2/brackets/11263/13735/47135
+06/03/2016,Super Smash Sundays 42,142,"Pomona, CA",SoCal,Lucky,https://smash.gg/tournament/super-smash-sundays-42/brackets/11892/16254/54932
+05/03/2016,Mass Madness 7,149,"Natick, MA",New Eng.,Slox,http://smashboards.com/rankings/mass-madness-7-melee-singles.12291/event?id=2
+05/03/2016,Avalon M-III,126,"Zoetermeer, Netherlands",Europe,Westballz,http://smashboards.com/threads/avalon-m-iii-march-5th-2016-the-netherlands-europe.432494/
+05/03/2016,NorCal Arcadian 3,359,"Santa Clara, CA",NorCal,Dewky,https://smash.gg/tournament/norcal-arcadian-3/brackets/10766/14360/49061
+05/03/2016,House of Paign IX,100,"Urbana, IL",Midwest,Kels,http://smashingillini.challonge.com/hop9meleetop32
+05/03/2016,NC Melee Arcadian Vol 2,108,"Raleigh, NC",Atl. South,Zasa,http://challonge.com/negarcadian2
+28/02/2016,UCSD Super TriWeekly #2,117,"San Diego, CA",SoCal,Lucky,http://sdmelee.challonge.com/STW2singlesT24
+28/02/2016,Bad Blood 2016,101,"Fresno, CA",NorCal,SFAT,http://challonge.com/BB2016Top32
+27/02/2016,Smash @ York 10 (Arcadian),150,"Toronto, ON",Canada,Windrose,http://emg.challonge.com/yorkarc64
+27/02/2016,Rubicon 7,144,"Chicago, IL",Midwest,Axe,http://challonge.com/rc7top32
+27/02/2016,Flashback Games 22,145,Atlanta, GA,Atl. South,Hungrybox,challonge/users/bluejim/dothislatermatt
+27/02/2016,Go4 Melee Arcadian,125,"Minneapolis, MN",Midwest,Locke,http://umnsmash.challonge.com/Go4MeleeArcadianTop32
+21/02/2016,Super Bit Wars 4,108,"Oklahoma City, OK",Midwest,Mew2King,https://smash.gg/tournament/super-bit-wars-4/brackets
+21/02/2016,WArcadian,138,"Seattle, WA",Northwest,Wasabi,https://smash.gg/tournament/uw-smash-presents-warcadian/brackets
+21/02/2016,B.E.A.S.T 6,410,"Gothenburg, Sweden",Europe,Armada,https://smash.gg/tournament/beast-6/brackets
+20/02/2016,UBC Cup 2016,191,"Vancouver, BC",Canada,SFAT,http://challonge.com/ubccuppro
+20/02/2016,Landlocked,122,"Indianapolis, IN",Midwest,MacD,http://smashboards.com/rankings/ebash-presents-landlocked-melee-singles-02-20-16.12092/event
+20/02/2016,Midstate Massacre 6,100,"Charlotte, NC",Atl. South,Twitch,http://msm6.challonge.com/
+14/02/2016,San Diego Arcadian #2,199,"San Diego, CA",SoCal,Mew2Queen,http://sdmelee.challonge.com/Arcadian2singlesT48
+13/02/2016,Mayhem 24,165,"South Pasadena, CA",SoCal,Lucky,https://smash.gg/tournament/mayhem-2-13/brackets
+06/02/2016,SWEET XXII,161,"East Lansing, MI",Midwest,Duck,https://smash.gg/tournament/sweet-xxii-a-super-smash-bros-melee-tournament/brackets/11003/7726/28179
+06/02/2016,CFL Monthly February,100,"Orlando, FL",Florida,Hungrybox,http://smashboards.com/rankings/cfl-smackdown-monthly-2-06-16.11636/event?id=2
+06/02/2016,Nebulous Prime 26,106,"New York City, NY",Tristate,Hax,http://nebulous.challonge.com/nebsprimemelee26singlespro
+06/02/2016,Fight or Flight 6,174,"Eugene, OR",Northwest,Bladewise,http://uosmash.challonge.com/fof6mt24
+06/02/2016,BOPME 13,105,"West Lafayette, IN",Midwest,Lanceinthepants,http://challonge.com/bopme13top32
+31/01/2016,Moses Kang Memorial Tournament,117,"Chapel Hill, NC",Atl. South,Shrimplipz?,https://smash.gg/tournament/moses-kang-memorial-tournament/brackets/11156/6451/24307
+31/01/2016,PAX Arena,200,"San Antonio, TX",Southwest,Hungrybox,https://smash.gg/tournament/pax-arena/brackets/11268/5533/21311
+30/01/2016,Emerald City 1,215,"Seattle, WA",Northwest,Silent Wolf,https://smash.gg/tournament/emerald-city-i/brackets/10989/3691/11961
+30/01/2016,PGN/NEOH Arcadian/Invitational,180,"Youngstown, OH",Midwest,4%,http://pittsmash.challonge.com/InvBracket
+30/01/2016,Mass Madness 6,165,"Natick, MA",New Eng.,Mafia,http://bigbluees.challonge.com/MMM6
+30/01/2016,Smash For Hope,101,"Edmonton, AB",Canada,Mittens,http://smashforhope.challonge.com/SFHMeleetop32
+29/01/2016,ASU Weekly 15/16 #14,114,"Tempe, AZ",Southwest,Vitro,http://challonge.com/asuweekly201514
+26/01/2016,New Game Plus 38,100,"Boston, MA",New Eng.,Mafia,http://smashboards.com/rankings/new-game-plus-38.13328/event?id=2
+24/01/2016,Kickstart 5,112,"London, UK",Europe,Leffen,https://smash.gg/tournament/kickstart-5/brackets/10971/4225/16966
+24/01/2016,Super Smash Sundays 40,117,"Pomona, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-40/brackets/11317/5228/20371
+23/01/2016,Flashback Games 21,192,"Atlanta, GA",Atl. South,Hungrybox,challonge/users/bluejim/dothislatermatt
+17/01/2016,Genesis 3,1828,"San Jose, CA",NorCal,Armada,https://smash.gg/tournament/genesis-3/details
+12/01/2016,Get Smashed at the Foundry 77,111,"San Francisco, CA",NorCal,Nintendude,http://showdowngg.challonge.com/SFGameNight77
+12/01/2016,New Game Plus 36,113,"Boston, MA",New Eng.,Mafia,http://smashboards.com/rankings/new-game-plus-36.13326/event?id=2
+10/01/2016,Super Smash Sundays 39,180,"Pomona, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-39/brackets/11212/4439/17966
+09/01/2016,Avalon M-II,128,"Zoetermeer, Netherlands",Europe,Amsah,http://smashboards.com/threads/avalon-m-ii-january-9th-2016-the-netherlands-europe.427922/
+09/01/2016,Rubicon 6,197,"Chicago, IL",Midwest,Silent Wolf,http://challonge.com/rc6top32
+09/01/2016,SWEET XXI,243,"Ann Arbor, MI",Midwest,Drephen,https://smash.gg/tournament/sweet-xxi-a-super-smash-bros-melee-tournament/brackets/10973/4223/16949
+07/01/2016,Smash Conference LXIX,103,"Orlando, FL",Florida,Mew2King,https://smash.gg/tournament/smash-conference-lxix-3/details
+02/01/2016,Mayhem 23,194,"Pasadena, CA",SoCal,Lucky,https://smash.gg/tournament/mayhem-1-2/brackets
+02/01/2016,Nebulous Prime 21,137,"New York City, NY",Tristate,The Moon,http://nebulous.challonge.com/nebsmelee21pro
+27/12/2015,King of Garden State 2,107,"Red Bank, NJ",Tristate,Swedish Delight,http://smashboards.com/rankings/king-of-garden-state-2-ssbm-singles.10628/event?id=2
+20/12/2015,Forte 3,317,"Austin, TX",Southwest,Wobbles,https://smash.gg/tournament/forte-3/brackets
+19/12/2015,Smash The Halls!,158,"Vancouver, BC",Canada,Silent Wolf,http://challonge.com/sthpro
+19/12/2015,Michigan Seasonal Series: Winter,157,"Howell, MI",Midwest,KJH,http://beachsmash.challonge.com/msswtop64
+19/12/2015,Nebulous Prime 19,166,"New York City, NY",Tristate,Slox,http://nebulous.challonge.com/nebsprime19allstar
+13/12/2015,Super Smash Sundays 38,130,"Santa Ana, CA",SoCal,SFAT,https://smash.gg/tournament/super-smash-sundays-38/brackets
+12/12/2015,Snow Time To Explain 3,132,"Portland, OR",Northwest,Bladewise,http://spd.challonge.com/stte3top16
+12/12/2015,Cincinnati Smash Classic IV,114,"Cincinnati, OH",Midwest,Hanky Panky,http://challonge.com/csc4melee
+12/12/2015,Rubicon 5,100,"Chicago, IL",Midwest,Lucky,http://challonge.com/rc5top32
+29/11/2015,Smash Intensifies 2,111,"Montreal, QC",Canada,The Moon,https://smash.gg/tournament/smash-intensifies-2/brackets
+28/11/2015,DreamHack Winter 2015,357,"Jonkoping, Sweden",Europe,Hungrybox,http://challonge.com/DHWSmash
+22/11/2015,Northwest Majors: Drop Zone,196,"Seattle, WA",Northwest,Silent Wolf,http://nwm.challonge.com/
+22/11/2015,Kickstart 4,112,"London, UK",Europe,Plup,http://challonge.com/KS4Singles
+22/11/2015,Kings of the North 4,218,"Milwaukee, WI",Midwest,The Moon,http://kotn4.challonge.com/
+21/11/2015,BUST 3,256,"Boston, MA",New Eng.,Swedish Delight,https://smash.gg/tournament/bust3-1/brackets
+21/11/2015,Feat. PGH Carroll,151,"Pittsburgh, PA",Tristate,4%,http://smashboards.com/threads/pitt-smash-bros-club-presents-ft-pgh-carroll-results-thread.424411/
+21/11/2015,UCSD Super TriWeekly,133,"La Jolla, CA",SoCal,Lucky,https://smash.gg/tournament/ucsd-super-try-weekly-ft-tmg-california-finals/brackets/10677/3552/11493
+15/11/2015,Eclipse,187,"Oslo, Norway",Europe,Armada,https://smash.gg/tournament/eclipse/brackets
+15/11/2015,Rewired,120,"Tucson, AZ",Southwest,Forward,http://rewired2015.challonge.com/ssbm_pool_pro
+15/11/2015,Roll Tier 6,102,"Bellevue, NE",Midwest,Bobby Frizz,http://challonge.com/rt6melee32
+15/11/2015,Super Smash Sundays 36,141,"Santa Ana, CA",SoCal,Lucky,https://smash.gg/tournament/super-smash-sundays-36/brackets
+14/11/2015,Michigan Arcadian 3,192,"Ann Arbor, MI",Midwest,Yoyo,https://smash.gg/tournament/michigan-arcadian-3/brackets/10726/3346/10728
+08/11/2015,Tipped Off 11,336,"Atlanta, GA",Atl. South,DruggedFox,https://smash.gg/tournament/tipped-off-11/brackets
+07/11/2015,Kill Roy,132,"Bloomington, IN",Midwest,Vro,http://challonge.com/KillRoyMeleeSingles
+07/11/2015,Mayhem Arcadian,158,"South Pasadena, CA",SoCal,Captain Faceroll,https://smash.gg/tournament/mayhem-arcadian-11-7/brackets/10805/3343/10684
+07/11/2015,Battlegrounds,125,"Houston, TX",Southwest,Redd,http://smashboards.com/rankings/battlegounds-melee-top-32.9815/event?id=2
+01/11/2015,The Golden Bair 3,140,"Berkeley, CA",NorCal,SFAT,http://sab.challonge.com/gb3champ
+25/10/2015,Smash The Record 2015,378,"Orlando, FL",Florida,Lucky,http://smashtherecord.challonge.com/
+25/10/2015,STR2015 Melee Arcadian,203,"Orlando, FL",Florida,MrLz,http://smashtherecord.challonge.com/2015_melee_arcadian
+25/10/2015,JJ's Melee Arcadian 1,104,"Chatsworth, CA",SoCal,Psychomidget,http://challonge.com/jjsarcadian1top32
+24/10/2015,Mass Madness Monthly 5,107,"Natick, MA",New Eng.,Mafia,http://smashboards.com/rankings/mass-madness-monthly-5-melee-singles.9648/event?id=2
+18/10/2015,Gaston,157,"Vastra Gotaland, Sweden",Europe,Armada,http://bts.challonge.com/GMS64
+18/10/2015,Super Smash Sundays 34,122,"Santa Ana, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-34/brackets
+18/10/2015,MLG World Finals 2015,111,"New Orleans, LA",Atl. South,Hungrybox,http://tv.majorleaguegaming.com/mlg-events/brackets/new-orleans-2015/super-smash-bros-melee-champ
+17/10/2015,Xanadu Fall Arcadian,113,"Halethorpe, MD",MD/VA,Zain,http://xanaduarcadian.challonge.com/tfameleetop16
+17/10/2015,Mayhem October 2015,125,"South Pasadena, CA",SoCal,SFAT,https://smash.gg/tournament/mayhem-10-17/brackets
+10/10/2015,Smash2School,128,"Vancouver, BC",Canada,Bladewise,http://challonge.com/s2spro
+10/10/2015,ASU Weekly 15/16 #5,111,"Tempe, AZ",Southwest,PatCombo,http://challonge.com/asuweekly201552
+04/10/2015,The Big House 5,1317,"Dearborn, MI",Midwest,Armada,https://smash.gg/tournament/the-big-house-5/brackets
+03/10/2015,Avalon M,128,"Zoetermeer, Netherlands",Europe,Amsah,http://smashboards.com/threads/avalon-m-october-3rd-2015-the-netherlands-europe.419470/
+27/09/2015,Helix,208,"Berlin, Germany",Europe,Armada,https://smash.gg/tournament/helix/brackets
+27/09/2015,SmashNest 4.5,127,"Portland, OR",Northwest,Bladewise,http://cacaw.challonge.com/SN4point5meleetop16
+27/09/2015,Super Smash Sundays 33,154,"Santa Ana, CA",SoCal,S2J,https://smash.gg/tournament/super-smash-sundays-33/brackets
+19/09/2015,HTC Throwdown,386,"San Francisco, CA",NorCal,Leffen,https://smash.gg/tournament/htc-throwdown/brackets
+19/09/2015,Flashback Games Tournament 17,113,"Atlanta, GA",Atl. South,Baka4Moe,http://challonge.com/FBGT17
+19/09/2015,Nebulous Prime 6,121,"New York City, NY",Tristate,The Moon,https://smash.gg/tournament/nebulous-prime-melee-6/brackets
+19/09/2015,A SSBM Tournament,106,"Pittsburgh, PA",Tristate,dizzkidboogie,http://smashboards.com/threads/pitt-smash-presents-an-ssbm-ssb4-tournament-results-thread.420223/
+18/09/2015,ASU Weekly 15/16 #2,125,"Tempe, AZ",Southwest,AppleSmaush,http://challonge.com/asuweekly20152
+13/09/2015,Super Smash Sundays 32,149,"Santa Ana, CA",SoCal,S2J,https://smash.gg/tournament/super-smash-sundays-32/brackets
+12/09/2015,Mayhem September 2015,119,"South Pasadena, CA",SoCal,Lucky,https://smash.gg/tournament/mayhem-9-12/brackets
+12/09/2015,Rubicon 2,106,"Chicago, IL",Midwest,Westballz,http://challonge.com/rc2top32
+11/09/2015,ASU Weekly 15/16 #1,132,"Tempe, AZ",Southwest,Gem,http://challonge.com/asuweekly20151
+06/09/2015,Paragon Los Angeles 2015,547,"Ontario, CA",SoCal,Mango,http://paragon.challonge.com/
+06/09/2015,How Dair You,109,"Freiburg, Germany",Europe,Ice,http://notechgaming.challonge.com/
+04/09/2015,Man on a Ledge 70,101,"Pittsburgh, PA",Tristate,SilentSwag,http://moal.challonge.com/MoaL70MeleeSingles
+30/08/2015,PAX Prime 2015,187,"Seattle, WA",Northwest,Mew2King,https://smash.gg/tournament/pax-prime-2015/brackets
+30/08/2015,Show Me Your Moves 16,180,"Urbana, IL",Midwest,Lucky,http://smashingillini.challonge.com/SMYM16melee
+29/08/2015,NCSU: Return of The Spreadsheet,102,"Raleigh, NC",Atl. South,$Mike,https://smashboards.com/threads/ncsu-return-of-the-spreadsheet-8-29-15-large-nc-local.415966/
+25/08/2015,New Game Plus 18,101,"Boston, MA",New Eng.,DJ Nintendo,http://bigbluees.challonge.com/NGP18
+22/08/2015,Mayhem August 2015,177,"South Pasadena, CA",SoCal,Westballz,https://smash.gg/tournament/mayhem-8-22/brackets
+22/08/2015,Kings of Vancouver II,108,"Vancouver, BC",Canada,Blunted_Object10,http://ubcmelee.challonge.com/kovpro
+22/08/2015,Body City 3,110,"Ann Arbor, MI",Midwest,S2J,https://smash.gg/tournament/body-city-3/brackets/10422/1851/5966
+19/08/2015,Smash @ Xanadu 111,108,"Halethorpe, MD",MD/VA,Chillin,http://vgbootcamp.challonge.com/SatX08192015SSBM
+16/08/2015,Summit,199,"Kitchener, ON",Canada,KirbyKaze,http://challonge.com/SummitMelee
+16/08/2015,Heir II The Throne,369,"Nottingham, UK",Europe,Armada,http://teamheir.challonge.com/
+15/08/2015,Rubicon 1,106,"Chicago, IL",Midwest,DruggedFox,http://challonge.com/rc1top32
+15/08/2015,Nebulous Prime 1,183,"New York City, NY",Tristate,Swedish Delight,http://smashboards.com/rankings/nebulous-prime-1-singles-all-star-bracket.8022/event
+11/08/2015,New Game Plus 16,105,"Boston, MA",New Eng.,Mafia,http://bigbluees.challonge.com/NGP16
+09/08/2015,Super Smash Con 2015,593,"Chantilly, VA",MD/VA,Leffen,http://supersmashcon.challonge.com/
+09/08/2015,Kickstart,100,"London, UK",Europe,Professor Pro,http://challonge.com/Kickstartsingles
+05/08/2015,Smash @ Xanadu 109,102,"Halethorpe, MD",MD/VA,Mew2King,http://smashboards.com/rankings/s-x-melee-singles-08-05-2015.7870/event?id=2
+04/08/2015,New Game Plus 15,107,"Boston, MA",New Eng.,Smuckers,http://bigbluees.challonge.com/NGP15
+02/08/2015,Super Smash Sundays 31,255,"Pomona, CA",SoCal,Westballz,https://smash.gg/tournament/super-smash-sundays-31-the-return/brackets
+02/08/2015,Low Tier City 3,190,"Plano, TX",Southwest,Wobbles,http://ltc3.challonge.com/
+21/07/2015,New Game Plus 13,103,"Boston, MA",New Eng.,ZoSo,http://bigbluees.challonge.com/NGP13
+19/07/2015,Evo 2015,1869,"Las Vegas, NV",Southwest,Armada,http://wiki.teamliquid.net/smash/EVO_2015/Singles_Bracket
+11/07/2015,PrEVO 2015,138,"Washington, DC",MD/VA,Nintendude,http://smashboards.com/rankings/prevo-2015-singles-top-32.7426/event?id=2
+11/07/2015,Mayhem July 2015,331,"South Pasadena, CA",SoCal,S2J,http://challonge.com/users/macd
+11/07/2015,WTFox,150,"Memphis, TN",Atl. South,Leffen,http://challonge.com/WTFoxMeleeTop32
+11/07/2015,UMN Smash Summer Seasonal,102,"Minneapolis, MN",Midwest,Slayer,http://smashboards.com/rankings/umn-smash-summer-seasonal-melee-top-32.7439/event
+07/07/2015,Get Smash at the Foundry 52,100,"San Francisco, CA",NorCal,Shroomed,http://showdowngg.challonge.com/SFGameNight52
+05/07/2015,FC Smash 15XR: Return,208,"Notre Dame, IN",Midwest,Leffen,http://smashboards.com/threads/fc-return-complete-results-july-4-5.410084/
+05/07/2015,EXP 2015,145,"Kitchener, ON",Canada,Mew2King,http://letsplaykw.challonge.com/EXP2015melee
+28/06/2015,CEO 2015,483,"Orlando, FL",Florida,Leffen,http://ceogaming.challonge.com/
+27/06/2015,Desucon 10,117,"Oslo, Norway",Europe,Kriz,http://challonge.com/desucon10melee
+20/06/2015,The Oregon SHFFL,169,"Eugene, OR",Northwest,Mew2King,http://shffl.challonge.com/Top16
+16/06/2015,New Game Plus 8,100,"Boston, MA",New Eng.,The Moon,http://smashboards.com/rankings/new-game-plus-8.6955/event
+14/06/2015,Smash 'N' Splash,255,"Gurnee, IL",Midwest,Mew2King,http://smashnsplash.challonge.com/
+13/06/2015,NW Battleground 1,106,"Des Moines, WA",Northwest,Silent Wolf,http://gameclucks.challonge.com/nwbg1melee
+06/06/2015,The NEG Arcadian,111,"Raleigh, NC",Atl. South,Weillin,http://smashboards.com/threads/the-neg-arcadian-6-6-111-entrants.405473/
+06/06/2015,Mayhem June 2015,233,"South Pasadena, CA",SoCal,Westballz,http://challonge.com/mayhemJune6Top32
+31/05/2015,Get On My Level 2015,224,"Toronto, ON",Canada,Hungrybox,http://challonge.com/users/evenmatchupgaming
+31/05/2015,Dismantle,137,"Berwyn, IL",Midwest,Westballz,http://e2c.challonge.com/qyoepvd8
+30/05/2015,San Diego Arcadian 1,124,"San Diego, CA",SoCal,Zen,http://sdmelee.challonge.com/Arcadian1singlesT48
+24/05/2015,Battle Arena Melbourne 7,261,"Melbourne, Australia",Australia,Mango,http://melbournemelee.challonge.com/
+24/05/2015,Shuffle VII,157,"Columbus, OH",Midwest,Mew2King,http://challonge.com/shuffle7s
+17/05/2015,Revelation 2,127,"Denver, CO",Southwest,Mew2King,http://challonge.com/Rev2MeleeST32
+16/05/2015,Xanadu Spring Arcadian,102,"Halethorpe, MD",MD/VA,Junebug,http://xanaduarcadian.challonge.com/meleetop16
+10/05/2015,Press Start,222,"Irvine, CA",SoCal,Mango,http://challonge.com/users/startlan
+10/05/2015,HFLAN Melee Edition,172,"Noisy-le-Grand, France",Europe,Armada,https://smash.gg/tournament/hflan-melee-edition/brackets
+09/05/2015,Shell Shocked 18,104,"College Park, MD",MD/VA,The Moon,http://smashboards.com/threads/shell-shocked-18-5-9-melee-and-pm-results.402410/
+02/05/2015,Mayhem May 2015,134,"South Pasadena, CA",SoCal,Mango,http://challonge.com/mayhemMay2Top32
+26/04/2015,Super Nebulous 3,198,"New York City, NY",Tristate,Lucky,https://smash.gg/tournament/super-nebulous-3-1/brackets
+26/04/2015,Northwest Majors VII,167,"Des Moines, WA",Northwest,Silent Wolf,http://nwm7.challonge.com/
+26/04/2015,DrommeLAN 4.5,129,"Sandvika, Norway",Europe,Armada,http://dl4-5.challonge.com/
+25/04/2015,End The Paign,101,"Champaign, IL",Midwest,Darkatma,http://smashingillini.challonge.com/EndThePaignMelee
+25/04/2015,Michigan Arcadian 2,206,"Ann Arbor, MI",Midwest,Butch G,http://michigansmash.challonge.com/michiganarcadian2
+19/04/2015,Sandstorm,231,"Tempe, AZ",Southwest,Armada,http://challonge.com/SandstormMeleeTop64
+18/04/2015,GatorLAN Summer 2015,160,"Gainesville, FL",Florida,Colbol,http://gatorgaming.challonge.com/GLAN2015MTop
+12/04/2015,BUST 2,202,"Boston, MA",New Eng.,Vwins,http://smashboards.com/rankings/b-u-s-t-2-melee-singles-pro-bracket.5645/event
+12/04/2015,I'm Not Yelling,316,"Oakland, CA",NorCal,Armada,https://smash.gg/tournament/i-m-not-yelling-feat-armada/brackets
+06/04/2015,Beauty 10,119,"Gothenburg, Sweden",Europe,Armada,http://beauty10.challonge.com/
+04/04/2015,SWEET XX,148,"East Lansing, MI",Midwest,Duck,http://michigansmash.challonge.com/sweetmeleesingles20
+04/04/2015,Mayhem April 2015,176,"South Pasadena, CA",SoCal,Mango,http://smashboards.com/rankings/mayhem-4-4-15-top-32.5564/event?id=2
+29/03/2015,NeoNebulous 7,171,"New York City, NY",Tristate,Leffen,http://smashboards.com/rankings/neonebulous-7-all-star-bracket-171-singles-entrants.5352/event?id=2
+29/03/2015,Aftershock,111,"Arlington, TX",Southwest,Axe,http://aftershock.challonge.com/
+28/03/2015,JAB 3,181,"Lafayette, IN",Midwest,SFAT,http://challonge.com/JAB3Singles
+28/03/2015,Fight or Flight 2,103,"Eugene, OR",Northwest,Eggz,http://fight-or-flight.challongedothislatermatt
+22/03/2015,Van Alive IV,102,"Vancouver, BC",Canada,Blunted_Object10,http://challonge.com/VA4Pro
+15/03/2015,Bad Moon Rising,220,"Cary, NC",Atl. South,Hungrybox,http://challonge.com/users/neg_darkhart
+14/03/2015,Mayhem March 2015,142,"South Pasadena, CA",SoCal,HugS,http://smashboards.com/rankings/mayhem-3-14-15-top-32.5130/event?id=2
+14/03/2015,Warehouse Throwdown 3.1415,125,"St. Cloud, MN",Midwest,Kels,http://smashboards.com/rankings/warehouse-throwdown-3-1415-melee-singles.5136/event?id=2
+14/03/2015,AZ Melee Arcadian 1,172,"Tempe, AZ",Southwest,SanchAZ,http://challonge.com/azarcadiansingles
+14/03/2015,SWEET XIX,191,"Ann Arbor, MI",Midwest,Duck,http://smashboards.com/rankings/sweet-xix-melee-singles-bracket.5624/event?id=2
+08/03/2015,The Golden Bair 2,108,"Berkeley, CA",NorCal,SFAT,http://challonge.com/gb2champ
+01/03/2015,Shots Fired,106,"Easton, PA",Tristate,Mew2King,http://shotsfiredmelee.challonge.com/
+28/02/2015,Mayhem February 2015,205,"South Pasadena, CA",SoCal,Westballz,http://challongedothislatermatt/users/macd?page=4
+28/02/2015,Olympus February,150,"Clemson, SC",Atl. South,Twitch,http://smashboards.com/threads/olympus-clemson-south-carolina-02-28-150.393366/
+22/02/2015,McSmashter 4,255,"Hamilton, ON",Canada,Armada,http://challonge.com/MCS4Singles
+22/02/2015,House of Paign IV,100,"Urbana, IL",Midwest,Hoefler,http://smashingillini.challonge.com/HoP4Melee
+21/02/2015,SWEET XVIII,161,"East Lansing, MI",Midwest,Duck,http://michigansmash.challonge.com/sweetmeleesingles18
+21/02/2015,Great Revival,119,"La Crosse, WI",Midwest,Mew2King,http://gr.challonge.com/
+21/02/2015,SmashNest v3,163,"Portland, OR",Northwest,Silent Wolf,http://cacaw.challonge.com/smashnestv3meleetop16
+01/02/2015,Apex 2015,1037,"Somerset, NJ",Tristate,PPMD,http://apex2015melee.challonge.com/
+31/01/2015,House of Paign III,125,"Urbana, IL",Midwest,Dart!,http://smashingillini.challonge.com/HoP3Melee
+24/01/2015,NorCal Arcadian 2,292,"Cupertino, CA",NorCal,Bardull,http://challonge.com/norcalarcadianmainbracket
+24/01/2015,Super Nebulous 2,123,"New York City, NY",Tristate,The Moon,http://nebulous.challonge.com/
+24/01/2015,Smash For Smiles 2,103,"Bellingham, WA",Northwest,Silent Wolf,http://challonge.com/sfs2melee
+24/01/2015,MVG Endgame,126,"Tempe, AZ",Southwest,Axe,http://challonge.com/endgamemeleepro
+24/01/2015,Mayhem January 2015,182,"South Pasadena, CA",SoCal,Lucky,http://smashboards.com/threads/mayhem-1-24-15-results-south-pasadena-ca.388424/
+24/01/2015,SWEET XVII,182,"Ann Arbor, MI",Midwest,Armada,http://smashboards.com/threads/sweet-xvii-results-1-24-15-ann-arbor-mi-feat-armada.388394/
+18/01/2015,Paragon 2015,262,"Orlando, FL",Florida,Hungrybox,http://paragon.challonge.com/
+18/01/2015,Winter GameFest 2015,178,"La Jolla, CA",SoCal,KBJ,http://sdmelee.challonge.com/WGF2015singlesT32
+11/01/2015,B.E.A.S.T 5,375,"Gothenburg, Sweden",Europe,Leffen,http://beastsmash.challonge.com/
+04/01/2015,SWEET Prologue,202,"Ann Arbor, MI",Midwest,KirbyKaze,http://sweetprologue.challonge.com/
+03/01/2015,Smash The Target,117,"Tucson, AZ",Southwest,Axe,http://mh.challongedothislatermatt
+21/12/2014,Forte 2,227,"Austin, TX",Southwest,Hungrybox,http://challonge.com/forte2meleesingles
+21/12/2014,Northwest Majors VI Regionals,144,"Des Moines, WA",Northwest,Mew2King,http://pnwr.challonge.com/meleefinals
+21/12/2014,Super Smash Sundays 30,135,"Walnut, CA",SoCal,Lucky,http://oxy.challonge.com/SmashSundaysSingles30
+20/12/2014,Big Beach House,132,"Howell, MI",Midwest,Duck,http://beachsmash.challonge.com/bbhmeleesingles
+07/12/2014,The Come Up,188,"Toronto, ON",Canada,Mew2King,https://www.reddit.com/r/smashbros/comments/4tllgy/can_we_have_a_moment_of_recognition_for_emangbad/d5ic4td?context=3
+07/12/2014,Super Smash Sundays 29,117,"Walnut, CA",SoCal,Westballz,http://oxy.challonge.com/SmashSundaysSingles29
+05/12/2014,Smash @ Clarendon Arcadian,141,"Arlington, VA",MD/VA,SG,http://smashboards.com/threads/smash-clarendon-arcadian-results-141-entrants.381554/
+29/11/2014,Smash Intensifies,101,"Montreal, QC",Canada,Vwins,http://challonge.com/SmashIntensifiesMELEE
+23/11/2014,Canadian Arcadian Vol. 2,112,"Toronto, ON",Canada,Nightmare,http://challonge.com/canarc2m
+22/11/2014,KTAR XI,144,"Somerset, NJ",Tristate,Split*,http://ktarxi.challonge.com/kMeleesinglesTop32
+22/11/2014,BUST,169,"Boston, MA",New Eng.,DJ Nintendo,http://themeleegames.challonge.com/BUST
+16/11/2014,Do You Fox Wit It?,211,"Oakland, CA",NorCal,Hax,http://dyfwi.challonge.com/dyftop32
+09/11/2014,Super Smash Weekend,106,"Walnut, CA",SoCal,Lucky,http://oxy.challonge.com/SmashWeekendSingles
+08/11/2014,Kings of the North 3,168,"Milwaukee, WI",Midwest,Mew2King,http://smashboards.com/threads/kings-of-the-north-3-results-shoutouts.377244/
+02/11/2014,Fight Pitt V,200,"Pittsburgh, PA",Tristate,Hungrybox,http://fightpitt5.challonge.com/MeleeSinglesTop32
+26/10/2014,Super Smash Sundays 28,123,"Walnut, CA",SoCal,Mew2King,http://oxy.challonge.com/SmashSundaysSingles28
+18/10/2014,Mayhem October 2014,102,"South Pasadena, CA",SoCal,Mew2King,http://smashboards.com/threads/mayhem-10-18-melee-3ds-results-south-pasadena-ca.374096/
+11/10/2014,Justice 4,168,"Scarsdale, NY",Tristate,Armada,http://smashboards.com/rankings/justice-4-top-48.2434/event?id=2
+05/10/2014,The Big House 4,570,"Romulus, MI",Midwest,Mango,http://tbh4.challonge.com/meleesingles
+27/09/2014,The Shape of Melee To Come V,104,"Cleveland, OH",Midwest,Armada,http://smashboards.com/threads/the-shape-of-melee-to-come-v-full-results-and-shoutouts-kirtland-oh-sept-27-2014.370223/#post-17670766
+21/09/2014,Tipped Off 10,175,"Doraville, GA",Atl. South,Hungrybox,http://challonge.com/tippedoff10
+14/09/2014,Super Smash Sundays 25,115,"Walnut, CA",SoCal,Lucky,http://smashboards.com/threads/level-up-team-oxy-present-super-smash-sundays-super-arcade-the-25th-edition-sep-14th-2014.368432/
+06/09/2014,Mayhem September 2014,139,"South Pasadena, CA",SoCal,S2J,http://smashboards.com/threads/mayhem-melee-only-sept-6th.366827/
+31/08/2014,Super Smash Sundays 24,178,"Walnut, CA",SoCal,S2J,http://oxy.challonge.com/SmashSundaysSingles24
+27/08/2014,SoCal Pizza 1,100,"Mission Viejo, CA",SoCal,Split*,http://smashboards.com/threads/socal-pizza-melee-1.366127/
+16/08/2014,Carroll Fest 5,103,"Bridgeville, PA",Tristate,Mango,http://smashboards.com/threads/carroll-fest-5-full-results-and-greenranger-gif.364615/
+09/08/2014,Mayhem August 2014,227,"South Pasadena, CA",SoCal,Hungrybox,http://smashboards.com/threads/mayhem-august-9th.364015/
+03/08/2014,Zenith 2014,280,"Brooklyn, NY",Tristate,Mew2King,http://smashboards.com/threads/zenith-2014-results-project-m-melee.363280/
+13/07/2014,Evo 2014,970,"Las Vegas, NV",Southwest,Mango,http://smashboards.com/rankings/evolution-championship-series-2014-melee-singles.1533/event
+06/07/2014,Kings of Cali 4,208,"Los Angeles, CA",SoCal,Mango,http://smashboards.com/threads/team-oxy-presents-kings-of-cali-4-results.360503/#post-17022507
+29/06/2014,CEO 2014,232,"Orlando, FL",Florida,Armada,http://challonge.com/ksdlfajlksdjflkaf/standings
+28/06/2014,Mayhem June 2014,107,"South Pasadena, CA",SoCal,Lucky,http://smashboards.com/threads/mayhem-june-28th.359929/
+22/06/2014,MLG Anaheim 2014,325,"Anaheim, CA",SoCal,Mango,http://smashboards.com/rankings/mlg-anaheim-2014-melee-singles-both-brackets.1375/event
+15/06/2014,Super Smash Sundays (22) Lock In,112,"Walnut, CA",SoCal,Armada,http://smashboards.com/threads/team-oxy-presents-super-smash-sundays-lock-in-super-arcade-the-22nd-edition-june-15th-2014.358590/
+08/06/2014,Super SWEET,165,"Ann Arbor, MI",Midwest,Armada,http://smashboards.com/threads/super-sweet-results-june-7-8-2014-ann-arbor-mi-feat-armada-m2k-mango-axe-duck.357608/
+01/06/2014,SKTAR 3,237,"Somerset, NJ",Tristate,PPMD,http://smashboards.com/threads/sktar-3-results-over-450-unique-entrants.357040/
+25/05/2014,Pat's House 2,162,"San Diego, CA",SoCal,Mew2King,http://challonge.com/PH2_Singles/standings
+24/05/2014,Justice 3,117,"Scarsdale, NY",Tristate,Hax,http://smashboards.com/threads/justice-3-ness-qualifier-results-thread.356269/
+18/05/2014,Republic of Fighters 3,198,"Noisy-le-Grand, France",Europe,Leffen,http://smashboards.com/threads/republic-of-fighters-3-paris-france-european-mlg-qualifier.357657/
+18/05/2014,Super Smash Sundays 20,101,"Walnut, CA",SoCal,S2J,http://smashboards.com/threads/level-up-team-oxy-present-super-smash-sundays-super-arcade-the-20th-edition-may-18th-2014.355678/
+17/05/2014,The Canadian Arcadian Vol. 1,116,"Toronto, ON",Canada,Trullium,http://challonge.com/TheCanadianArcadian
+11/05/2014,Get On My Level 2014,258,"Toronto, ON",Canada,Mango,http://smashboards.com/threads/get-on-my-level-2014-mlg-qualifier-results-may-10-11-toronto-canada.355204/
+19/04/2014,Fight Pitt 4,174,"Pittsburgh, PA",Tristate,Mango,http://smashboards.com/threads/fight-pitt-4-freegimr-duckthepolice.353190/
+29/03/2014,Northeastern Smash Attack 2,227,"Boston, MA",New Eng.,DJ Nintendo,http://smashboards.com/threads/northeastern-smash-attack-2-boston-ma-3-29-14-220-attendees.351384/
+29/03/2014,CEO Prologue 2014,105,"Orlando, FL",Florida,Hungrybox,http://smashboards.com/threads/ceo-prologue-runback-mountain-melee-pm.351380/
+23/03/2014,The Next Episode,147,"Oakland, CA",NorCal,Fly Amanita,http://challonge.com/tne_singles
+09/03/2014,Revival of Melee 7,112,"Nanuet, NY",Tristate,Mango,http://smashboards.com/threads/official-rom-7-results-thread-3-8-14-3-9-14.350099/
+23/02/2014,Shuffle 5,143,"Columbus, OH",Midwest,Mew2King,http://smashboards.com/threads/shuffle-v-results-columbus-oh.348923/
+16/02/2014,B.E.A.S.T 4,160,"Gothenburg, Sweden",Europe,Leffen,http://smashboards.com/threads/b-e-a-s-t-4-results-and-shoutouts.348567/
+08/02/2014,Y-Town Throwdown,119,"Youngstown, OH",Midwest,Mango,http://smashboards.com/threads/y-town-throwdown-i-results-and-shoutouts.347822/
+25/01/2014,NorCal Arcadian,157,"San Jose, CA",NorCal,Laudandus,http://smashboards.com/threads/jan-25-2014-norcal-arcadian-san-jose-ca-results-the-law-has-dawned-on-us.346820/
+19/01/2014,Apex 2014,629,"Somerset, NJ",Tristate,PPMD,http://smashboards.com/threads/apex-2014-results-january-17-19-2014-somerset-nj.346543/
+12/01/2014,McSmashter 3,119,"Hamilton, ON",Canada,Mew2King,http://smashboards.com/threads/mcsmashter-3-january-11-12-2014-hamilton-on-canada.347084/
+11/01/2014,SWEET XIII,101,"Ann Arbor, MI",Midwest,Mango,http://smashboards.com/threads/sweet-xiii-results-1-11-14-ann-arbor-mi-feat-mango-abate-duck-dart-vanz-more.345799/
+15/12/2013,Kings of Cali 3,202,"Pasadena, CA",SoCal,Mew2King,http://smashboards.com/threads/team-oxy-presents-kings-of-cali-3-results.344134/
+15/12/2013,Tipped Off 9,112,"Atlanta, GA",Atl. South,PPMD,http://smashboards.com/threads/tipped-off-9-results-thread.344168/#post-16098359
+25/11/2013,SoCal Arcadian,146,"Walnut, CA",SoCal,Lil Fumi,http://smashboards.com/threads/level-up-team-oxy-present-the-arcadian-super-arcade-nov-25th-2013.342962/
+22/11/2013,Northeastern Smash Attack,108,"Boston, MA",New Eng.,KoreanDJ,http://smashboards.com/threads/nsa-results-thread-108-entrants-boston-ma.342905/
+17/11/2013,Revival of Melee 6,118,"Nanuet, NY",Tristate,Mew2King,http://smashboards.com/threads/rom6-results-thread.342703/
+13/10/2013,The Big House 3,172,"Ann Arbor, MI",Midwest,Mew2King,http://smashboards.com/threads/the-big-house-3-results-october-12-13th-2013-ann-arbor-mi.341209/
+08/09/2013,Super Smash Sundays 3,100,"Walnut, CA",SoCal,S2J,http://smashboards.com/threads/may-18-2014-super-smash-sundays-super-arcade-walnut-ca.339148/
+18/08/2013,Lanhammer 2013,170,"San Francisco, CA",NorCal,PewPewU,http://smashboards.com/threads/lanhammer-2013-melee-results-and-shoutout-thread.340136/
+14/07/2013,Evo 2013,696,"Las Vegas, NV",Southwest,Mango,http://smashboards.com/threads/evo-2013-final-results.338559/
+02/06/2013,Zenith 2013,126,"Morristown, NJ",Tristate,Mango,http://smashboards.com/threads/zenith-2013-official-results-shoutouts-thread-june-1-2-2013-morristown-nj.336899/
+14/04/2013,Kings of Cali 2,115,"Pasadena, CA",SoCal,Mango,http://smashboards.com/threads/team-oxy-presents-kings-of-cali-2-ken-v-scar-mango-wobbles-shroomed-april-13th-14th-2013.335694/
+20/01/2013,Winter Game Fest VIII,100,"La Jolla, CA",SoCal,Westballz,http://smashboards.com/threads/ucsd-winter-gamefest-viii.332613/page-4#post-15273067
+13/01/2013,Apex 2013,336,"New Brunswick, NJ",Tristate,Armada,http://smashboards.com/threads/official-apex-2013-results-thread-jan-11-13-2013-new-brunswick-nj.332658/
+18/11/2012,Revival of Melee 5,114,"Nanuet, NY",Tristate,Mew2King,http://smashboards.com/threads/road-to-apex-2013-revival-of-melee-5-results-shoutouts-thread-11-17-11-18-2012.330024/
+10/11/2012,Kings of Cali,121,"Pasadena, CA",SoCal,PPMD,http://smashboards.com/threads/road-to-apex-kings-of-cali-results-nov-10th-2012-pasadena-ca.329650/
+07/10/2012,The Big House 2,128,"Ann Arbor, MI",Midwest,Mango,http://smashboards.com/threads/road-to-apex-the-big-house-2-results-october-6-7-2012-ann-arbor-mi.328569/
+14/08/2012,MELEE-FC10R (Legacy),146,"South Bend, IN",Midwest,Mango,http://smashboards.com/threads/melee-fc-legacy-results.326650/
+15/07/2012,Smashers Reunion: Melee Grande,124,"Eidsvoll, Norway",Europe,Armada,http://smashboards.com/threads/smashers-reunion-melee-grande-results-shoutouts.325325/
+15/01/2012,Winter Game Fest VII,155,"La Jolla, CA",SoCal,Lucky,http://smashboards.com/threads/1-14-2012-1-15-2012-winter-game-fest-vii.317508/
+08/01/2012,Apex 2012,318,"New Brunswick, NJ",Tristate,Armada,http://smashboards.com/threads/the-official-apex-2012-results-thread-all-results-up-international-takes-it-all.316696/
+20/11/2011,Revival of Melee 4,110,"Nanuet, NY",Tristate,Mango,http://smashboards.com/threads/rom-4-results-thread.314625/
+22/10/2011,The Big House,115,"Ann Arbor, MI",Midwest,Lovage,http://smashboards.com/threads/road-to-apex-the-big-house-results-10-22-11-ann-arbor-mi-115-entrants.313102/
+14/08/2011,B.E.A.S.T 2,112,"Gothenburg, Sweden",Europe,Armada,http://smashboards.com/threads/b-e-a-s-t-2-results-and-shoutouts.308975/
+17/07/2011,Genesis 2,228,"Antioch, CA",NorCal,Armada,http://smashboards.com/threads/official-genesis-2-results-thread.307610/
+06/03/2011,Show Me Your Moves 12,103,"Champaign, IL",Midwest,Darkrain,http://smashboards.com/threads/smym-12-results.298932/
+21/02/2011,Pound V,243,"Arlington, VA",MD/VA,PPMD,http://smashboards.com/threads/pound-v-melee-results-and-shoutouts-thread.298145/
+23/01/2011,Winter Game Fest VI,105,"San Diego, CA",SoCal,PPMD,http://smashboards.com/threads/winter-game-fest-vi-official-results.296278/
+09/01/2011,B.E.A.S.T,100,"Gothenburg, Sweden",Europe,Armada,http://smashboards.com/threads/b-e-a-s-t-results-shoutouts.295345/
+19/12/2010,Don't Go Down There Jeff!,108,"Concord, CA",NorCal,Jman,http://smashboards.com/threads/dont-go-down-there-jeff-results-gsg2.294211/
+21/11/2010,Revival of Melee 3,163,"Nanuet, NY",Tristate,PPMD,http://smashboards.com/threads/revival-of-melee-3-upsetting-results.292053/
+12/08/2010,Smash Needs You,100,"Birmingham, UK",Europe,Armada,http://smashboards.com/threads/sny-1-results-birmingham-uk-august-10th-12th-2010.283728/
+08/08/2010,Apex 2010,220,"New Brunswick, NJ",Tristate,Hungrybox,http://smashboards.com/threads/official-apex-2010-full-results.283374/
+14/03/2010,Show Me Your Moves 11,108,"Champaign, IL",Midwest,Jman,http://smashboards.com/threads/smym-11-results-shoutouts.268814/
+18/01/2010,Pound 4,350,"Frederick, MD",MD/VA,Mango,http://smashboards.com/threads/official-pound-4-melee-results-thread.262154/
+22/11/2009,Revival of Melee 2,159,"Nanuet, NY",Tristate,Hungrybox,http://smashboards.com/threads/rom-ii-results-thread-brackets-on-1st-page.257053/
+15/11/2009,Pat's House,111,"San Diego, CA",SoCal,Mango,http://smashboards.com/threads/pats-house-result-thread-final-update-results-are-up.255468/
+09/08/2009,Super Lion 4,113,"Lyon, France",Europe,Amsah,http://smashboards.com/threads/super-lion-4-results-and-shoutouts-melee-brawl-european-tournament.244746/
+02/08/2009,Show Me Your Moves 10,124,"Champaign, IL",Midwest,Mango,http://smashboards.com/threads/smym-10-results-shoutouts.243429/
+12/07/2009,Genesis,290,"Antioch, CA",NorCal,Mango,http://smashboards.com/threads/genesis-results-and-shoutouts-full-results-and-payouts-up.241080/
+12/04/2009,Epita Smash Arena 3,108,"Villejuif, France",Europe,Armada,http://smashboards.com/threads/epita-smash-arena-3-paris-france-full-results-and-shoutouts.230116/
+05/04/2009,Smash Attack,131,"Bremen, Germany",Europe,Armada,http://smashboards.com/threads/smash-attack-bremen-germany-results-shoutouts.229135/
+21/03/2009,Mango Juice,128,"San Bernadino, CA",SoCal,Mango,http://smashboards.com/threads/mango-juice-melee-results.227090/
+08/03/2009,Revival of Melee,136,"Nanuet, NY",Tristate,Mango,http://smashboards.com/threads/revival-of-melee-nanuet-ny-march-7th-and-8th.225106/
+07/02/2009,Show Me Your Moves 9,112,"Champaign, IL",Midwest,Darkrain,http://smashboards.com/threads/smym-9-champaign-il-2-7-09.220299/
+19/10/2008,Event 52,115,"Overland Park(?), KS",Midwest,Mew2King,http://smashboards.com/threads/event-52-oct-18th-19th-kansas-results.200448/
+08/06/2008,TGMTSBCO*,118,"Riverdale, GA",Atl. South,Mew2King,http://smashboards.com/threads/the-greatest-melee-tourney-since-brawl-came-out-results.174894/
+01/03/2008,UCLA V: Melee Strikes Back,149,"Los Angeles, CA",SoCal,HugS,http://smashboards.com/threads/ucla-v-melee-strikes-back-03-01-08-results.151379/
+24/02/2008,Epita Smash Arena 2,231,"Villejuif, France",Europe,Amsah,http://wiki.teamliquid.net/smash/Epita_Smash_Arena/2/Singles_Bracket
+03/02/2008,Pound 3,224,"Baltimore, MD",MD/VA,Mango,http://smashboards.com/threads/pound-3-results-shoutouts-thread.142081/
+01/12/2007,UCLA Monthly IV: The Return,120,"Los Angeles, CA",SoCal,Split*,http://smashboards.com/threads/ucla-monthlies-iv-the-return.128941/
+11/11/2007,Viva La Smashtaclysm,188,"Torrington, CT",New Eng.,Azen,http://smashboards.com/threads/viva-la-smashtaclysm-results.125583/
+30/09/2007,Super Champ Combo,200,"San Bernadino, CA",SoCal,Mew2King,http://smashboards.com/threads/super-champ-combo-results.118664/
+22/09/2007,C3 Smash Battle,102,"Ashburn, VA",MD/VA,Mew2King,http://smashboards.com/threads/9-22-c3-results.117856/
+26/08/2007,Evo World 2007,270,"Henderson, NV",Southwest,Ken,http://smashboards.com/threads/evo-world-results.114936/
+29/07/2007,Evo West 2007,128,"San Diego, CA",SoCal,Mew2King,http://smashboards.com/threads/evo-west-the-west-coast-championships-1-week-after-0c3-registration-free.107459/
+22/07/2007,Zero Challenge 3,228,"Santa Fe Springs, CA",SoCal,PC Chris,http://smashboards.com/threads/official-oc3-results-thread.110400/
+14/07/2007,MELEE-FC Diamond,256,"South Bend, IN",Midwest,Mew2King,http://smashboards.com/threads/melee-fc-d-results-over-10000-in-prizes.109534/
+06/07/2007,Renaissance of Smash 4,132,"Varbeg, Sweden",Europe,Amsah,http://smashboards.com/threads/the-renaissance-of-smash-4-results-and-shoutouts.108693/
+17/06/2007,Pound 2,200,"Mount Airy, MD",MD/VA,ChuDat,http://smashboards.com/threads/pound-2-results-shoutouts-thread.106772/
+28/04/2007,Smash Royale III,107,"San Bernadino, CA",SoCal,Ken,http://smashboards.com/threads/nexus-gaming-super-smash-royale-3-results-afterthoughts.102644/
+31/03/2007,INNsomnia V,116,"West Memphis, AS",Atl. South,Forward,http://smashboards.com/threads/innsomnia-v-3-30-31-results-and-shoutouts.100664/
+11/03/2007,Evo South,128,"Austin, TX",Southwest,Wobbles,http://smashboards.com/threads/evo-south-results.99121/
+04/03/2007,Cataclysm III,112,"Spencer, MA",New Eng.,Mew2King,http://smashboards.com/threads/cataclysm-3-results-full-teams-and-singles-results-up.98317/
+04/11/2006,Show Me Your Moves 6,103,"Champaign, IL",Midwest,Dope,http://allisbrawl.com/ttournament.aspx?id=19
+14/10/2006,MLG New York Playoffs 2006,208,"New York City, NY",Tristate,Azen,http://smashboards.com/rankings/mlg-new-york-playoffs-2006-melee-pro-singles-brackets-levels-1-2.144/event
+27/08/2006,MLG Orlando 2006,176,"Orlando, FL",Florida,Azen,http://smashboards.com/rankings/mlg-orlando-2006-melee-pro-singles-bracket.141/event
+17/08/2006,Zero Challenge 2,192,"Fountain Valley, CA",SoCal,Ken,http://allisbrawl.com/ttournament.aspx?id=23
+22/07/2006,MLG Chicago 2006,184,"St. Charles, IL",Midwest,Ken,http://smashboards.com/rankings/mlg-chicago-2006-melee-pro-singles-bracket.138/event
+15/07/2006,MELEE-FC6,205,"South Bend, IN",Midwest,PC Chris,http://www.qj.net/qjnet/wii/melee-fc6-results.html
+24/06/2006,MLG Anaheim 2006,160,"Anaheim, CA",SoCal,Ken,http://smashboards.com/rankings/mlg-anaheim-2006-melee-pro-singles-bracket.136/event
+20/05/2006,MLG Dallas 2006,144,"Frisco, TX",Southwest,Ken,http://smashboards.com/rankings/mlg-dallas-2006-melee-pro-singles-bracket.135/event
+23/04/2006,MLG New York 2006,143,"Secaucus, NJ",Tristate,PC Chris,http://smashboards.com/rankings/mlg-meadowlands-2006-melee-pro-singles-bracket.134/event
+12/11/2005,BOMB 4,105,"Potomac, MD",MD/VA,ChuDat,http://smashboards.com/rankings/bomb-4-melee-singles.339/event
+20/08/2005,Jack Garden Tournament,116,"Kyoto, Japan",Japan,Ken,http://archive.is/tZfZj
+12/07/2005,MELEE-FC3,189,"South Bend, IN",Midwest,Ken,http://z13.invisionfree.com/GamerGuild/ar/t205.htm
